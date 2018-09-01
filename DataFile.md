@@ -29,3 +29,12 @@ puts markdown.to_html
 
 1. Numbered list 1
 2. Numbered list 2
+
+<br>
+<br>
+
+|This           |Isa            | Table |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | 39232 |
+| col 2 is      | centered      |   932 |
+| Tigers        | Random        |    52 |
