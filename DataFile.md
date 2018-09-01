@@ -46,3 +46,5 @@ puts markdown.to_html
 *this is an italicized text*
 <br>
  ~~This is a strike-through text~~
+
+ ***
