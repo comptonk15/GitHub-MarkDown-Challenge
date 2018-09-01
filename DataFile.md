@@ -24,3 +24,8 @@ puts markdown.to_html
 
 * Bullet 1
 * Bullet 2
+
+<br>
+
+1. Numbered list 1
+2. Numbered list 2
