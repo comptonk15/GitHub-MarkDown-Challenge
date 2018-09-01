@@ -22,5 +22,5 @@ puts markdown.to_html
 <br>
 <br>
 
-1. List first item
-2. List second item
+* Bullet 1
+* Bullet 2
