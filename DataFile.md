@@ -44,3 +44,5 @@ puts markdown.to_html
 **This is a strong (bolded) text**
 <br>
 *this is an italicized text*
+<br>
+ ~~This is a strike-through text~~
