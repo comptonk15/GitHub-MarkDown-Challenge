@@ -42,3 +42,5 @@ puts markdown.to_html
 <br>
 
 **This is a strong (bolded) text**
+<br>
+*this is an italicized text*
