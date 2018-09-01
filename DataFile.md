@@ -38,3 +38,7 @@ puts markdown.to_html
 | col 3 is      | right-aligned | 39232 |
 | col 2 is      | centered      |   932 |
 | Tigers        | Random        |    52 |
+
+<br>
+
+**This is a strong (bolded) text**
