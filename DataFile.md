@@ -22,4 +22,5 @@ puts markdown.to_html
 <br>
 <br>
 
-⋅⋅* Unordered sub-list.
+1. List first item
+2. List second item
