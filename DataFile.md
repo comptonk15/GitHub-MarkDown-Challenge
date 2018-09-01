@@ -1,1 +1,1 @@
-[a realative link](README.md)
+[link to README](README.md)
