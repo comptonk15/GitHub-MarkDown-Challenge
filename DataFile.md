@@ -9,3 +9,9 @@ This is a H2 header.
 <h4>
 This is a H4 header.
 </h4>
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
