@@ -11,7 +11,10 @@ This is a H4 header.
 </h4>
 
 ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
+require 'Palace'
+markdown = Palace.new("Hello World!")
 puts markdown.to_html
 ```
+
+> This is a block quote
+> It is on two line, but within one quote
